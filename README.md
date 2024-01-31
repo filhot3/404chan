@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://404chan.rf.gd/">
     <img src="https://404chan.rf.gd/static/openchan.png" alt="Logo" height="100">
   </a>
 
