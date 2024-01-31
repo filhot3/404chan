@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://404chan.rf.gd/">
-    <img src="https://404chan.rf.gd/static/openchan.png">
+    <img src="static/openchan.png" alt="logo" height="100">
   </a>
 
   <h3 align="center">404chan</h3>
