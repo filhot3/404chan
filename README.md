@@ -103,7 +103,7 @@ This project currently has no license because I am lazy and havent chosen one ye
 
 Brody King - [mailto:bk.2k@hotmail.com](bk.2k@hotmail.com)
 
-OC Project Link: [https://github.com/filhot3/404chan](https://github.com/filhot3/404chan)</br>
+OC Project Link: [https://github.com/brodyking/openchan](https://github.com/brodyking/openchan)</br>
 404chan Project Link: [https://github.com/filhot3/404chan](https://github.com/filhot3/404chan)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
