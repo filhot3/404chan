@@ -5,13 +5,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="static/openchan.png" alt="Logo" height="100">
+    <img src="https://404chan.rf.gd/static/openchan.png" alt="Logo" height="100">
   </a>
 
-  <h3 align="center">Openchan</h3>
+  <h3 align="center">404chan</h3>
 
   <p align="center">
-    A lightweight imageboard script written without a database.
+    A lightweight imageboard script written without a database based on the OpenChan script.
     <br />
   </p>
 </div>
@@ -22,6 +22,7 @@
 ## About The Project
 
 <img src="static/example.gif" style="width: 100%">
+<center>Gif by OpenChan</center>
 
 There are many imageboard scripts out there for anyone to use, so why this one? Well there is not really a reason. If you like a simplier layout and a more textboard style website that also supports images, then this script is for you! But I still would not reccomend anyone use this script yet. There are a few things that have not been done to make this secure yet. I will talk about it later in this readme.
 
@@ -102,6 +103,7 @@ This project currently has no license because I am lazy and havent chosen one ye
 
 Brody King - [mailto:bk.2k@hotmail.com](bk.2k@hotmail.com)
 
-Project Link: [https://github.com/brodyking/Openchan](https://github.com/brodyking/Openchan)
+OC Project Link: [https://github.com/filhot3/404chan](https://github.com/filhot3/404chan)
+404chan Project Link: [https://github.com/filhot3/404chan](https://github.com/filhot3/404chan)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
